@@ -1,0 +1,5 @@
+Ejercicio de la materia Programacion 4 ITSBJ
+
+Requiere la sumatoria de los numeros dentro de un rango limitado de 10 a 1000.
+se debe visualizar los numeros considerados y que sean multiplos de 3 y 5.
+

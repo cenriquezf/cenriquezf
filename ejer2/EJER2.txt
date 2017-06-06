@@ -1,0 +1,4 @@
+Ejercicio de la materia Programacion 4 ITSBJ
+
+Requiere modificar el ejer 1 permitiendo al usuario elegir el rango del calculo y los multiplos
+
